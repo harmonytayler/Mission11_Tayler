@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Program.cs",
+              "RelativeDocumentMoniker": "Mission11.API\\Program.cs",
+              "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Program.cs",
+              "RelativeToolTip": "Mission11.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:49:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "Mission11.API\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\Book.cs*",
+              "RelativeToolTip": "Mission11.API\\Data\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:48:19.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
