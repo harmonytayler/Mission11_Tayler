@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|c:\\users\\harmo\\onedrive\\is junior core\\is 413\\mission11_tayler\\backend\\mission11.api\\mission11.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC9C2B5-C30F-4B4A-ABE8-2852FFFF4E92}|Mission11.API\\Mission11.API.csproj|solutionrelative:mission11.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\Book.cs",
-              "RelativeDocumentMoniker": "Mission11.API\\Data\\Book.cs",
-              "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\Book.cs",
-              "RelativeToolTip": "Mission11.API\\Data\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:58:31.518Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,35 +24,9 @@
               "RelativeDocumentMoniker": "Mission11.API\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Controllers\\BookController.cs",
               "RelativeToolTip": "Mission11.API\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:54:54.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Program.cs",
-              "RelativeDocumentMoniker": "Mission11.API\\Program.cs",
-              "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Program.cs",
-              "RelativeToolTip": "Mission11.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:49:26.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\BookDbContext.cs",
-              "RelativeDocumentMoniker": "Mission11.API\\Data\\BookDbContext.cs",
-              "ToolTip": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Data\\BookDbContext.cs",
-              "RelativeToolTip": "Mission11.API\\Data\\BookDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:54:02.153Z",
+              "WhenOpened": "2025-03-26T19:24:19.68Z",
               "EditorCaption": ""
             },
             {
