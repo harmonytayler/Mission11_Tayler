@@ -1,0 +1,22 @@
+.cart-summary {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    background: #f8f9fa;
+    padding: 12px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    font-size: 18px;
+    font-weight: 500;
+    transition: background-color 0.3s, transform 0.2s;
+    color: #333;
+}
+
+.cart-summary:hover {
+    background-color: #28a745; /* Green background on hover */
+    color: white; /* White text color when hovering */
+    transform: scale(1.05); /* Slight scale-up effect on hover */
+}
