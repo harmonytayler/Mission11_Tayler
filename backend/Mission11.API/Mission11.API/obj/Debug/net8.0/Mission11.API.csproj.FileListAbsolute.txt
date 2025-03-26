@@ -68,3 +68,4 @@ C:\Users\harmo\OneDrive\IS Junior Core\IS 413\Mission11_Tayler\backend\Mission11
 C:\Users\harmo\OneDrive\IS Junior Core\IS 413\Mission11_Tayler\backend\Mission11.API\Mission11.API\obj\Debug\net8.0\Mission11.API.pdb
 C:\Users\harmo\OneDrive\IS Junior Core\IS 413\Mission11_Tayler\backend\Mission11.API\Mission11.API\obj\Debug\net8.0\Mission11.API.genruntimeconfig.cache
 C:\Users\harmo\OneDrive\IS Junior Core\IS 413\Mission11_Tayler\backend\Mission11.API\Mission11.API\obj\Debug\net8.0\ref\Mission11.API.dll
+C:\Users\harmo\OneDrive\IS Junior Core\IS 413\Mission11_Tayler\backend\Mission11.API\Mission11.API\obj\Debug\net8.0\Mission11.API.sourcelink.json
