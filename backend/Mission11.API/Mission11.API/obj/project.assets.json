@@ -1476,11 +1476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Mission11.API.csproj",
+      "projectUniqueName": "C:\\Users\\harmo\\OneDrive\\Information Systems\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Mission11.API.csproj",
       "projectName": "Mission11.API",
-      "projectPath": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Mission11.API.csproj",
+      "projectPath": "C:\\Users\\harmo\\OneDrive\\Information Systems\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\Mission11.API.csproj",
       "packagesPath": "C:\\Users\\harmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harmo\\OneDrive\\IS Junior Core\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\obj\\",
+      "outputPath": "C:\\Users\\harmo\\OneDrive\\Information Systems\\IS 413\\Mission11_Tayler\\backend\\Mission11.API\\Mission11.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
