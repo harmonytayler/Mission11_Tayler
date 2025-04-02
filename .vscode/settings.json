@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/03a930c4-b36a-4d38-b801-d96e86efec2f/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Bookstore-Tayler",
+    "appService.deploySubpath": "backend\\Mission11.API\\Mission11.API\\publish"
+}
