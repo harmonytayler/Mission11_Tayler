@@ -15,15 +15,15 @@ builder.Services.AddDbContext<BookDbContext>(options =>
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend",
-        policy =>
-        {
-            policy.AllowAnyOrigin()
-                .AllowCredentials()
-                .AllowAnyHeader()
-                .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy.SetIsOriginAllowed(_ => true)  // Allow any origin
+            .AllowCredentials()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
 });
+
 
 var app = builder.Build();
 
