@@ -9,13 +9,7 @@ function PurchasePage() {
     const { addToCart } = useCart();
 
     // State to handle the quantity
-    const [quantity, setQuantity] = useState<number>(1);
-
-    // Handle quantity change
-    const handleQuantityChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-        const newQuantity = Math.max(1, parseInt(event.target.value, 10)); // Ensure quantity is at least 1
-        setQuantity(newQuantity);
-    };
+    const [quantity] = useState<number>(1);
 
     const handleAddToCart = () => {
         const newItem: CartItem = {
